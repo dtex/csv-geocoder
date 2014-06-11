@@ -2,6 +2,10 @@
 logs
 *.log
 
+# spreadsheet
+*.kml
+*.csv
+
 # Runtime data
 pids
 *.pid
